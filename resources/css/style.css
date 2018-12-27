@@ -25,6 +25,7 @@ body {
 }
 
 
+
   /* LINKS */
 
 
@@ -35,4 +36,12 @@ body {
 
 a {
   color: aquamarine;
+}
+
+/* FOOTER */
+
+.footer--copyright {
+  text-align: right;
+  color: grey;
+  font-size: 21px;
 }
